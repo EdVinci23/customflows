@@ -1,5 +1,5 @@
 {
-  "name": "customflows-netlify-publish",
+  "name": "customflows-netlify-publish-v3",
   "private": true,
   "type": "module",
   "dependencies": {
