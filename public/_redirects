@@ -1,3 +1,3 @@
 /api/publish   /.netlify/functions/publish   200!
-/s/:slug        /.netlify/functions/public?slug=:slug   200!
-/*              /index.html   200
+/s/*           /.netlify/functions/public?slug=:splat   200!
+/*             /index.html   200
