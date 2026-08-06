@@ -1,0 +1,8 @@
+{
+  "name": "customflows-netlify-publish",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
