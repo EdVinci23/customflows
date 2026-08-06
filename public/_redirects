@@ -1,0 +1,3 @@
+/api/publish   /.netlify/functions/publish   200!
+/s/*           /.netlify/functions/public?slug=:splat   200!
+/*             /index.html   200
